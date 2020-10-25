@@ -1,0 +1,11 @@
+[Icon Theme]
+Name=FontAwesome Black
+Comment=Icon theme based on FontAwesome
+Directories=scalable
+
+[scalable]
+Size=48
+Type=Scalable
+MinSize=1
+MaxSize=2048
+Threshold=10
